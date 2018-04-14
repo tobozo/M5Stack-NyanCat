@@ -29,7 +29,7 @@
 #include <M5Stack.h>             // https://github.com/m5stack/M5Stack/
 #include "M5StackUpdater.h"      // https://github.com/tobozo/M5Stack-SD-Updater
 
-#include "Game_Audio.h"; // from http://www.buildlog.net/blog/2018/02/game-audio-for-the-esp32/
+#include "Game_Audio.h" // from http://www.buildlog.net/blog/2018/02/game-audio-for-the-esp32/
 
 #include "nyan-audio.h"
 #include "nyan-video.h"
